@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Currently, I work as Platform Software Engineer at PicPay App. My first contact with programming was in the early 2000s, creating scripts for the IRC Clients. Since then, I have never stopped programming. I started my career working with Backend and Frontend and then I migrated to Mobile about 6 years ago. I’m an enthusiast of the software craftsmanship movement, I love creativity, and I always look for an alternative to everything.
+
 <!--
 **ronanrodrigo/ronanrodrigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
