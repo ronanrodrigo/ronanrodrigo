@@ -1,18 +1,11 @@
-### Hi there 👋
+<img src="https://github.com/ronanrodrigo/ronanrodrigo/blob/main/Header.png?raw=true" alt="Currently, I work as Platform Software Engineer at PicPay App. My first contact with programming was in the early 2000s, creating scripts for IRC Clients. Since then, I have never stopped programming. I started my career working with Web (Backend & Frontend) and then I migrated to Mobile about 6 years ago. I’m an enthusiast of the software craftsmanship movement, I love creativity, and I always look for an alternative to everything."/>
 
-Currently, I work as Platform Software Engineer at PicPay App. My first contact with programming was in the early 2000s, creating scripts for the IRC Clients. Since then, I have never stopped programming. I started my career working with Backend and Frontend and then I migrated to Mobile about 6 years ago. I’m an enthusiast of the software craftsmanship movement, I love creativity, and I always look for an alternative to everything.
-
-<!--
-**ronanrodrigo/ronanrodrigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="#">
+  <img align="top" src="https://github.com/ronanrodrigo/ronanrodrigo/blob/main/Languages.png?raw=true" width="33%"/>
+</a>
+<a href="#">
+  <img align="top" src="https://github.com/ronanrodrigo/ronanrodrigo/blob/main/Languages.png?raw=true" width="33%"/>
+</a>
+<a href="#">
+  <img align="top" src="https://github.com/ronanrodrigo/ronanrodrigo/blob/main/Wip.png?raw=true" width="33%"/>
+</a>
